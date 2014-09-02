@@ -1,0 +1,31 @@
+[
+    {
+        "ID": "1",
+        "Class":"hotelPics",
+        "Name": "Hotel Policies",
+        "Desc": "<h4 id='hname'>Hotel Policies</h4><p id='pname'>Sheraton Hotels &amp; Resortsoffers apartments with a fully equipped kitchen and a private balcony, just 500 metres from Forte Beach in Albufeira.<br/>The air-conditioned apartments of Hotel Apartamento Sheraton Hotels &amp; Resortsare bright and airy and feature a modern and colourful interior. All apartments have floor-to-ceiling windows, satellite TV and a private bathroom.<br/>The outdoor swimming pool is surrounded by a spacious terrace equipped with sun loungers. Free Wi-Fi can be accessed in public areas.<br/>Hotel Apartamento Forte Do Vale's restaurant offers local and international cuisine. The bar serves a wide variety of drinks and light snacks.<br/>Many Albufeira restaurants, bars, and shops are within walking distance of Forte Do Vale. Santa Eulália Beach is 2.2 km from the hotel, and the Modelo Shopping Center is 1.2 km away.</p><br/>",
+        "imgUrl": "resources/images/new_images/policies.jpg"
+    },
+    {
+        "ID": "2",
+        "Class":"hotelPics",
+        "Name": "Maps &amp; Directions",
+        "Desc": "<h4 id='hname'>Maps &amp; Directions</h4><p id='pname'>From Faro Airport (39.5 km, 40 mins):<br/>Head south. (0.1 km)<br/>Slight left toward N125-10. (0.8 km)<br/>At the roundabout, take the 1st exit onto N125-10. (2.8 km)<br/>Take the ramp to Lisboa/Portimão/Loulé. (0.6 km)<br/>Merge onto IC4. (2.6 km)<br/>At the roundabout, continue straight to stay on IC4. (1.4 km)<br/>Merge onto N125 via the ramp to Faro/Almancil. Go through 2 roundabouts. (16.1 km)<br/>Turn left onto EM526. Go through 1 roundabout. (5.0 km)<br/>Continue onto Estrada de Vilamoura. (0.6 km)<br/>Continue onto EM526. Go through 1 roundabout. (3.6 km)<br/>At the roundabout, take the 2nd exit onto Av. dos Descobrimentos. (0.8 km)<br/>At the roundabout, take the 4th exit onto Rua de Dunfermline. (0.7 km)<br/>At the roundabout, take the 1st exit onto Av. Infante Dom Henrique. (0.2 km)<br/>Turn left onto Rua Columbano Bordalo Pinheiro. (0.3 km)<br/>Turn right onto Rua do Forte. (0.1 km)</p><br/>",
+        "imgUrl": "resources/images/new_images/map.png"
+    }
+    /*{
+        "ID": "3",
+        "Class":"hotelPics",
+        "Name": "Hotel3",
+        "Desc": "<h4 id='hname'>Hotel3</h4><p id='pname'>The Welcome consists of two double or twin bedrooms, sofa bed, flat screen TV, bathrooms, fitted kitchen with large living and dining area. The furnished sun terrace offers stunning views over the beautiful gardens and the Atlantic ocean.</p> <p id='pname'>Max Occupancy: 6 Pax + 1 children </p><br/>",
+        "imgUrl": "resources/images/new_images/3.jpg"
+    },
+    {
+        "ID": "4",
+        "Class":"hotelPics",
+        "Name": "Hotel4",
+        "Desc": "<h4 id='hname'>Hotel4</h4><p id='pname'>The Welcome consists of two double or twin bedrooms, sofa bed, flat screen TV, bathrooms, fitted kitchen with large living and dining area. The furnished sun terrace offers stunning views over the beautiful gardens and the Atlantic ocean.</p> <p id='pname'>Max Occupancy: 6 Pax + 1 children </p><br/>",
+        "imgUrl": "resources/images/new_images/4.jpg"
+    }*/
+]
+

@@ -1,0 +1,17 @@
+[
+    {
+        "ID": "1",
+        "Class":"activitiesPics",
+        "Name": "Meeting Room",
+        "imgUrl": "resources/images/fdv_pics/localarea.jpg",
+        "Desc": "<h4 id='hname'><small class=\"smallText\">Welcome to</small><br/>Sheraton Hotels &amp; Resorts</h4><p id='pname'>Sheraton Hotels &amp; Resorts offers apartments with a fully equipped kitchen and a private balcony, just 500 metres from Forte Beach in Albufeira.<br/>                                The air-conditioned apartments of Hotel Apartamento Sheraton Hotels &amp; Resorts are bright and airy and feature a modern and colourful interior. All apartments have floor-to-ceiling windows, satellite TV and a private bathroom.<br/>                                The outdoor swimming pool is surrounded by a spacious terrace equipped with sun loungers. Free Wi-Fi can be accessed in public areas.<br/>                                Hotel Apartamento Sheraton Hotels &amp; Resorts's restaurant offers local and international cuisine. The bar serves a wide variety of drinks and light snacks.<br/>Many Albufeira restaurants, bars, and shops are within walking distance of Sheraton Hotels &amp; Resorts. Santa Eulália Beach is 2.2 km from the hotel, and the Modelo Shopping Center is 1.2 km away.</p><br/>"
+    },
+    {
+        "ID": "2",
+        "Class":"activitiesPics",
+        "Name": "Wedding Services",
+        "imgUrl": "resources/images/fdv_pics/golf.jpg",
+        "Desc": "<h4 id='hname'><small class=\"smallText\">Meet the</small><br/>Chef</h4><p id='pname'>The Twitter consists of two double or twin bedrooms, sofa bed, flat screen TV, bathrooms, fitted kitchen with large living and dining area. The furnished sun terrace offers stunning views over the beautiful gardens and the Atlantic ocean.</p> <p id='pname'>Max Occupancy: 6 Pax + 1 children </p><br/>"
+    }
+]
+

@@ -1,0 +1,17 @@
+[
+    {
+        "ID": "1",
+        "Class":"activitiesPics",
+        "Name": "Local Area",
+        "imgUrl": "resources/images/fdv_pics/localarea.jpg",
+        "Desc": "<h4 id='hname'><small class=\"smallText\">Welcome to</small><br/>Sheraton Hotels &amp; Resorts</h4><p id='pname'>Enjoy the relaxing friendly atmosphere of the Café Latte Bar. The Pool Bar is open throughout the day so you and your family can spend as much time by the pool as you like. Enjoy cool beers, long cocktails and light snacks.</p><br/>"
+    },
+    {
+        "ID": "2",
+        "Class":"activitiesPics",
+        "Name": "Golf",
+        "imgUrl": "http://1.23.183.7:8088/Golf/Golf_1.jpg",
+        "Desc": "<h4 id='hname'>Golf</h4><p id='pname'>2 Rounds Salgados and Pine Cliffs 18 holes, 2 rounds to be played in 7 days. Valid for one player </p><br/>"
+    }
+]
+

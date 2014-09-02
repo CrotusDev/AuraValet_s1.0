@@ -1,0 +1,8 @@
+[
+    {
+        "rev_class_id": "1",
+        //"Class":"localGolfPics",
+        "rev_class_name": "Local Activities",
+        "path": "resources/icons/local_activities.png"
+    }
+]

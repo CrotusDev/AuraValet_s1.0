@@ -1,0 +1,71 @@
+{
+    "tabs" : {
+        "one"   : {
+            "html"  : "This is the first tab",
+            "title" : "First Tab"
+        },
+        "two"   : {
+            "html"  : "This is the second tab",
+            "title" : "Second Tab"
+        },
+        "three" : {
+            "html"  : "This is the third tab",
+            "title" : "Third Tab"
+        }
+    },
+    "pages" : {
+        "one" : {
+            "title" : "First Page"
+        },
+        "extra" : {
+            "title" : "Extra Page"
+        }
+    },
+    "buttons" : {
+        "cancel" : "Cancel",
+        "save"   : "Save",
+        "done"   : "Done",
+        "addView": "Add View",
+        "enter"  : "Enter"
+    },
+    "label": {
+        "hotelinfo": "<img src='resources/icons/icon1.png'><br/><br/>Hotel Information",
+        "concierge": "<img src='resources/icons/icon2.png'><br/><br/>Concierge Services",
+        "restaurant": "<img src='resources/icons/icon3.png'><br/><br>Food &amp; Beverages",
+        "activities": "<img src='resources/icons/activities.png'><br/><br>Activities",
+        //"chanels": "<img src='resources/icons/icon4.png'><br/><br/>CHANNEL&TV INFO",
+        "event": "<img src='resources/icons/icon5.png'><br/><br/>Events",
+        "gallery": "<img src='resources/icons/gallery.png'><br/><br>Gallery",
+        "movieservice": "<img src='resources/icons/icon7.png'><br/><br/>Movie Services",
+        "wifi": "<img src='resources/icons/icon8.png'><br/><br>WiFi Connections",
+        "customes": "<img src='resources/icons/icon9.png'><br/><br>Customer Info"
+    },
+    "misc" : {
+        "bottomTitle"   : "Bottom Toolbar",
+        "loadLocaleMsg" : "Loading...",
+        "back"          : "Back"
+    },
+    "fields" : {
+        "name" : "Name",
+        "dateLabel" : "Date",
+        "datePlaceholder" : "Choose Date"
+    },
+    "fieldsets" : {
+        "title" : "Fieldset Title",
+        "instructions" : "fieldset instructions"
+    }
+    /*"months" : {
+        "1"  : "January",
+        "2"  : "February",
+        "3"  : "March",
+        "4"  : "April",
+        "5"  : "May",
+        "6"  : "June",
+        "7"  : "July",
+        "8"  : "August",
+        "9"  : "September",
+        "10" : "October",
+        "11" : "November",
+        "12" : "December"
+    }*/
+}

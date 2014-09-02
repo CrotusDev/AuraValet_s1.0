@@ -1,0 +1,15 @@
+[
+    {
+        "rev_class_id": "1",
+        //"Class":"hotel2Pics",
+        "rev_class_name": "Accommodations",
+        "path": "resources/icons/Accommodation.png"
+    },
+    {
+        "rev_class_id": "2",
+        //"Class":"hotel2Pics",
+        "rev_class_name": "Facilities",
+        "path": "resources/icons/activities_.png"
+    }
+]
+

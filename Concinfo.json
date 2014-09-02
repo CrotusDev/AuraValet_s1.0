@@ -1,0 +1,27 @@
+[
+    {
+        "ConcinfoID": "1",
+        "ConcinfoClass":"hotelPics",
+        "ConcinfoName": "Taxi Request",
+        "ConcinfoLogoUrl": "resources/images/new_images/taxi.jpg"
+    },
+    {
+        "ConcinfoID": "2",
+        "ConcinfoClass":"hotelPics",
+        "ConcinfoName": "Laundry Request",
+        "ConcinfoLogoUrl": "resources/images/new_images/laundry.jpg"
+    },
+    {
+        "ConcinfoID": "3",
+        "ConcinfoClass":"hotelPics",
+        "ConcinfoName": "House Keeping",
+        "ConcinfoLogoUrl": "resources/images/new_images/Housekeeping.jpg"
+    },
+    {
+        "ConcinfoID": "4",
+        "ConcinfoClass":"hotelPics",
+        "ConcinfoName": "Alarm Service",
+        "ConcinfoLogoUrl": "resources/images/new_images/alarm.jpg"
+    }
+]
+

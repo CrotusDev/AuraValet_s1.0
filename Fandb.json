@@ -1,0 +1,30 @@
+[
+    {
+        "ID": "1",
+        "Class":"intPics",
+        "Name": "Welcome",
+        "Desc": "<h4 id='hname'>Welcome</h4><p id='pname'>Enjoy the relaxing friendly atmosphere of the Café Latte Bar. The Pool Bar is open throughout the day so you and your family can spend as much time by the pool as you like. Enjoy cool beers, long cocktails and light snacks.</p><br/>",
+        "imgUrl": "resources/images/new_images/1.jpg"
+    },
+    {
+        "ID": "2",
+        "Class":"intPics",
+        "Name": "Meet the Chef",
+        "Desc": "<h4 id='hname'>Meet the Chef</h4><p id='pname'>Robert combines a unique culinary flair with the use of the very finest local and international ingredients.<br/>Over the course of 12 years at Petchey Leisure Bar and Grill, Robert’s reputation gone from strength to strength as he continues to draw upon new inspirations and an endless resource of passion and creativity……..<br/>\"From the bread to the chocolates, everything we make it fresh. We only use all the best produce from all over the world including herbs, vegetables and a fruit from our own gardens – the seafood available locally is first rate and we take full advantage of that too\"</p><br/>",
+        "imgUrl": "resources/images/new_images/2.jpg"
+    },
+    {
+        "ID": "3",
+        "Class":"intPics",
+        "Name": "Loyalty",
+        "Desc": "<h4 id='hname'>Loyalty</h4><p id='pname'>We like to help our customers through our Loyalty program.<br/>Earn points at other properties around the World.<br/>Enjoy double points until the end of the year. </p><br/>",
+        "imgUrl": "resources/images/new_images/3.jpg"
+    }/*,
+    {
+        "ID": "4",
+        "Class":"intPics",
+        "Name": "Wine Supplier",
+        "Desc": "<h4 id='hname'>Wine Supplier</h4><p id='pname'>Metthew Clark are a national drinks wholesaler, with over 200 years experience supplying drink products, hospitality training, labour management and marketing support to over 16,000 on-trade premises in the UK.<br/>They have been Petchey Leisure’s main Supplier for the last 10 years and ensure that the hotel has one of the best stock of wine labels in the UK.</p><br/>",
+        "imgUrl": "resources/images/new_images/4.jpg"
+    }*/
+]
