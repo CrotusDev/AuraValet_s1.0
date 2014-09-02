@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-<<<<<<< HEAD
-        id          = "com.crotus.auravaletsa"
-        versionCode = "8" 
-        version     = "1.0" >
-        <!-- versionCode is optional and Android only -->
-        <name>Aura Valet Sheraton</name>
-=======
         id          = "com.crotus.auravaletsh1"
         versionCode = "8" 
         version     = "1.0" >
         <!-- versionCode is optional and Android only -->
-        <name>Aura Valet Sheraton V1</name>
->>>>>>> a128874f41fd7dad212adb13782c05276534f5ca
+        <name>Aura Valet Sheraton</name>
+        <name>Aura Valet Sheraton v1</name>
         <description>Aura Valet Sheraton Black Theme</description>
 
         <preference name="SplashScreen" value="screen" />
