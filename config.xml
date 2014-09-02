@@ -5,7 +5,6 @@
         versionCode = "8" 
         version     = "1.0" >
         <!-- versionCode is optional and Android only -->
-        <name>Aura Valet Sheraton</name>
         <name>Aura Valet Sheraton v1</name>
         <description>Aura Valet Sheraton Black Theme</description>
 
